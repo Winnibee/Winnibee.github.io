@@ -1,0 +1,76 @@
+body{background:firebrick;}
+
+.madhatter{
+  color:darkred;
+  text-align:center;
+  background:rgb(230, 230, 230);
+  border:solid rgb(0, 0, 0);
+  border-radius:3px;
+  font-family:"freestyle script",sans-serif;
+  font-variant:small-caps;
+  position:relative;
+  top:-40px;
+  z-index:1;
+	opacity:0.8;
+	font-size:70px;}
+
+.winnibee{
+  color:black;
+  text-align:center;
+  background:none;
+  margin:0px;
+  bottom:-30px;
+  padding:0px;
+  position:relative;
+  z-index:2;
+  font-family:"Freestyle Script",sans-serif;
+  font-size:70px;
+  font-weight:bold;
+  font-style:none;
+  text-decoration:underline;}
+
+
+.navbuttons{
+  opacity:.7;
+  transition:0.3s;
+  position:relative;
+  text-align:center;
+  margin:-100px;
+  border:none;
+  background-color:black;
+  color:darkred;
+  font-variant:small-caps;
+  height:35px;
+  font-family:"Freestyle script",san-serif;
+  font-size:35px;
+}
+
+.navbuttons:hover{
+  opacity:0.9;
+  background-color:darkred;
+}
+
+.entry{
+  background:maroon;
+  position:relative;
+  top:120px;
+  font-family:"gill sans mt",monospace;
+  font-weight:bold;
+  border-top:solid;
+  border-bottom:solid;}
+
+.entryhead{
+  position:relative;
+  top:130px;
+  font-size:40px;
+  font-family:monospace;
+  color:Maroon;
+  font-weight:bold;
+  z-index:5;}
+
+.entryhead:hover{
+  color:black;}
+  
+.devour{
+  background:darkred:}
+

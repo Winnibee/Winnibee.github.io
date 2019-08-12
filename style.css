@@ -72,15 +72,16 @@ body{background:firebrick;}
   color:black;}
  
 .subentry{
-position:relative;
-	top:140px;
-font-size:20px;
-font-family:monospace;
-color:Maroon;
-font-weight:bold;
-z-index:5;
-font-style:italic;
+	position:relative;
+	top:200px;
+	font-size:20px;
+	font-family:monospace;
+	color:Maroon;
+	font-weight:bold;
+	z-index:5;
+	font-style:italic;
 }
+
 .devour{
   background:darkred:}
 
